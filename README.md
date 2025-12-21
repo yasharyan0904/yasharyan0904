@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/yasharyan0904" target="blank"><img src="https://img.shields.io/twitter/follow/yasharyan0904?logo=twitter&style=for-the-badge" alt="yasharyan0904" /></a> </p>
 
-- 🔭 I’m currently working on [spectraQ](spectraq.org)
+- 🔭 I’m currently working on [spectraQ](https://www.spectraq.org/)
 
 - 🌱 I’m currently learning **deFi protocols, rust, EVM, etc.**
 
-- 👯 I’m looking to collaborate on [spectraQ](spectraq.org)
+- 👯 I’m looking to collaborate on [spectraQ](https://www.spectraq.org/)
 
 - 📫 How to reach me **yasharyan0904important@gmail.com**
 
