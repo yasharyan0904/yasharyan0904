@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [spectraQ](https://www.spectraq.org/)
 
-- 📫 How to reach me **yasharyan0904important@gmail.com**
+- 📫 How to reach me **https://x.com/yasharyan0904**
 
 - ⚡ Fun fact **I am guitarist 🎸**
 
